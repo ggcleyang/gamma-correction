@@ -1,7 +1,7 @@
-# gamma correction
+## gamma correction
  gamma correction for color or gray image
  
- *** 
+*** 
 ├─matlab_script  
 ├─images---tested images-color and gray images   
 ***
@@ -11,12 +11,12 @@
 ***
 %color image  
 1.first need to rgb2hsv  
-2.prcess channel v using gamma correction  
+2.process channel V only using gamma correction  
 3.hsv2rgb  
   
 %gray image  
-direct to gamma correction  
+directly to gamma correction  
 
-care about image data unint or double in processing or display  
+care about image data unint8 or double in processing or display  
 
 ***
