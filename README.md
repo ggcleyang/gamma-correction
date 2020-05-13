@@ -17,7 +17,7 @@
 %gray image  
 directly to gamma correction  
 
-care about image data unint8 or double in processing or display  
+care about image data normalization(unint8 to double) in processing or display  
 
 %color_space_gamma_curve.m  
 for plot gamma curves of various color space  
