@@ -3,7 +3,7 @@
  
 *** 
 ├─matlab_script  
-├─images---tested images-color and gray images   
+├─images---tested images-color and gray images 
 ***
 
 ## **some more details:**
@@ -18,5 +18,14 @@
 directly to gamma correction  
 
 care about image data unint8 or double in processing or display  
+
+%color_space_gamma_curve.m  
+for plot gamma curves of various color space  
+% red curve for sRGB/Display-P3  
+% green curve for Adobe RGB (1998)  
+% blue curve for BT.709/Rec2020/BT.2020  
+% magenta curve for DCI-P3  
+% yellow curve for Wide Gamut RGB  
+% black curve for ProPhoto RGB  
 
 ***
